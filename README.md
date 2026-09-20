@@ -6,7 +6,7 @@ This tool was developed to explore procedural rig construction and automate repe
 
 ## Demo
 
-![Arm Auto Rigger Demo](images/arm_auto__rig_demo.gif)
+![Arm Auto Rigger Demo](images/arm_auto_rig_demo.gif)
 
 ## Features
 
